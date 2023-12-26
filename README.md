@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Khuja
+- 👀 I am interested in programming in Java and Kotlin
+- 🌱 I am currently studying the Java backend using Spring Boot
+- 📫 You can contact me via email - husniddinkhuja79@gmail.com or Whatsapp with a number +992988821107
